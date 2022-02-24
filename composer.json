@@ -1,5 +1,5 @@
 {
-  "name": "konfuzed/mw_casauth",
+  "name": "gtsciences/mw_casauth",
   "description": "MediaWiki CAS auth plugin, adapted",
   "type": "project",
   "license": "GPL-2.0-or-later"
